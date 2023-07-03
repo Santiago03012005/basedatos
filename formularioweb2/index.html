@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos.css" class="re">
+    <title>Document</title>
+</head>
+
+<body>
+   
+    <form action="" class="mostrar" id="formulario">
+        <input type="email" id="txtemail" placeholder="Ingresa tu email">
+        <br><br>
+        <input type="password" id="txtpassword" placeholder="Ingresa tu password">
+        <br><br>
+        <input type="button" value="registrar" id="btnregistrar">
+        <br><br>
+        <input type="button" value="ingresar" id="btningresar">
+        <br><br>
+        <button type="button" id="btngoogle"><img src="https://img1.freepng.es/20180324/ziw/kisspng-google-logo-g-suite-google-5ab6f1f0b9e059.9680510615219389287614.jpg" height="30" width="30">
+        <button type="button" id="btnfacebook"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_de_Facebook.png" height="30" width="30">
+           
+    </form>
+
+    
+    <div class="ocultar" id="contenidoDeLaWeb">
+        <input type="button" value="cerrarsesion" id="btncerrarsesion">
+        <h3>Aquí veras el contenido de la web </h3>
+        <img src="https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj">
+        <div class="resultado" id="resultado"></div>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"> </script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"> </script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-firestore.js">  </script> 
+    <script src="main.js">  </script>
+
+    
+</body>
+</html>
