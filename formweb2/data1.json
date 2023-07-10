@@ -1,0 +1,163 @@
+[
+    {
+        "nombre":"Laptop",
+        "marca":"HP",
+        "modelo":"HP 15-DY5011LA Intel Core i7-1255U, RAM 16GB, SSD 512GB, 15.6",
+        "precio": 2999,
+        "img": "https://store.perudataconsult.net/cdn/shop/products/laptop-hp-15-DY5011LA-i7-1255U-8gb-ssd-512gb-3_ad4298aa-3ff4-4a10-8c17-84fd31c8830a.jpg?v=1672670368",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"Lenovo",
+        "modelo":"IdeaPad Slim 3 15 8va Gen - Abyss Blue",
+        "precio": 1898,
+        "img": "https://www.lenovo.com/medias/lenovo-laptops-ideapad-slim-3-gen8-15-amd-hero.png?context=bWFzdGVyfHJvb3R8MjY3NDAzfGltYWdlL3BuZ3xoZDYvaGVlLzE2Mzk5MDk2ODcyOTkwLnBuZ3wxYWQ1ZjcwODg4NDIxNmM2MGUyOWU5NGUwMWZjMDU5Y2FjOTgzYzhjZjA4ZTI5YWI0YzUzMmY4MTdhMjllNjBm",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"MAC",
+        "modelo":"Apple MacBook Air Core i7 MD226LL/A 256GB 4GB Plata.",
+        "precio":1537,
+        "img": "https://s1.eestatic.com/2023/01/23/omicrono/analisis-prueba-productos/735936812_230344949_1706x960.jpg" ,
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"HP",
+        "modelo":"All in One HP 22-dd1517la",
+        "precio":1999,
+        "img":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCavuYk-ShshJCsmPTQDz0aNarrbPbZOcLjA-rcWaBg79ppGjJs24g3QDcajPMURW8skiTwmM3kXMRspW37WBRYkbQaXUquR8xiAYDtwiNKvFHX4tNK3mQ&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"HP",
+        "modelo":"ProBook 455 G9",
+        "precio":3275,
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQl5nj2uA9Zu5IOw49r091qqAJTyr6ymQYPA4rBdCguaLXoH_vQVP3gcQpZrzBEy79Au_JNtqlOfglNL041i8OdRND3HCAwFd5gbPJxYyo&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"HP",
+        "modelo":"14-DQ2510LA 14 Intel Core i3, 512GB, 8GB ram, Win 11, plateado",
+        "precio":1599,
+        "img":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8iVPP3ARH4sWOujFVIFx9jet0XhuCBF1Fx1S3f0k89_3OsossBtkksbeBdXW-bSH58UclV5fuPtD13FfH39rt5e7ByWvBoip0U87WEbNLkulMkeJ8rVa9&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"HP",
+        "modelo":"Spectre x360 2-en-1 14-ef0100la",
+        "precio":7399,
+        "img":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRg09R-LRgiYDyWNJkWtUR0OV8YkOX8LmHGX7qQ9Vja5ikhyKibuR041hEKqlOpQX13NdWgpR4D0mRPvRxtV6C8xY1PvRdM3s9vL7Jsa0-k2KYs_0-7ovc8&usqp=CAc",
+        "webpage":""
+ },
+    {
+        "nombre":"Laptop",
+        "marca":"Lenovo",
+        "modelo":"ThinkBook Plus 3ra Gen",
+        "precio":8299,
+        "img":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQRVasZcGCkbU7848fhIx0zKDrHAwaKebLO4fmR_SSeHhhHPRFd1cTUTRPLPolDvHs4ZaXQEoql5NZ5_GkvDUBm-EU2YyNv8WAXtBDQvvqNz-m6kmesZhQ2&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"Lenovo",
+        "modelo":"IdeaPad Flex 5 14 HD AMD Ryzen 3 8GB RAM 256 SSD",
+        "precio":1399,
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTI5W8Kd6MSGEndzuZLXri9Gr2_BCxHbLpGoY3nbsnqhbi1Rm-AP_2rXba2KCYkF6uLhjj5eN0-uiLIGEs7xEgbd8YUl_5avFETPM8vH7BCd0_6YN5ZvHg&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"HP",
+        "modelo":"HP 15-DY5011LA Intel Core i7-1255U, RAM 16GB, SSD 512GB, 15.6",
+        "precio": 2999,
+        "img": "https://store.perudataconsult.net/cdn/shop/products/laptop-hp-15-DY5011LA-i7-1255U-8gb-ssd-512gb-3_ad4298aa-3ff4-4a10-8c17-84fd31c8830a.jpg?v=1672670368",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"Lenovo",
+        "modelo":"IdeaPad Slim 3 15 8va Gen - Abyss Blue",
+        "precio": 1950,
+        "img": "https://www.lenovo.com/medias/lenovo-laptops-ideapad-slim-3-gen8-15-amd-hero.png?context=bWFzdGVyfHJvb3R8MjY3NDAzfGltYWdlL3BuZ3xoZDYvaGVlLzE2Mzk5MDk2ODcyOTkwLnBuZ3wxYWQ1ZjcwODg4NDIxNmM2MGUyOWU5NGUwMWZjMDU5Y2FjOTgzYzhjZjA4ZTI5YWI0YzUzMmY4MTdhMjllNjBm",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"MAC",
+        "modelo":"Apple MacBook Air Core i7 MD226LL/A 256GB 4GB Plata.",
+        "precio":1540,
+        "img": "https://s1.eestatic.com/2023/01/23/omicrono/analisis-prueba-productos/735936812_230344949_1706x960.jpg" ,
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"HP",
+        "modelo":"All in One HP 22-dd1517la",
+        "precio":1700,
+        "img":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTCavuYk-ShshJCsmPTQDz0aNarrbPbZOcLjA-rcWaBg79ppGjJs24g3QDcajPMURW8skiTwmM3kXMRspW37WBRYkbQaXUquR8xiAYDtwiNKvFHX4tNK3mQ&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"HP",
+        "modelo":"ProBook 455 G9",
+        "precio":4100,
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQl5nj2uA9Zu5IOw49r091qqAJTyr6ymQYPA4rBdCguaLXoH_vQVP3gcQpZrzBEy79Au_JNtqlOfglNL041i8OdRND3HCAwFd5gbPJxYyo&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"HP",
+        "modelo":"14-DQ2510LA 14 Intel Core i3, 512GB, 8GB ram, Win 11, plateado",
+        "precio":2000,
+        "img":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8iVPP3ARH4sWOujFVIFx9jet0XhuCBF1Fx1S3f0k89_3OsossBtkksbeBdXW-bSH58UclV5fuPtD13FfH39rt5e7ByWvBoip0U87WEbNLkulMkeJ8rVa9&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"HP",
+        "modelo":"Spectre x360 2-en-1 14-ef0100la",
+        "precio":5695,
+        "img":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRg09R-LRgiYDyWNJkWtUR0OV8YkOX8LmHGX7qQ9Vja5ikhyKibuR041hEKqlOpQX13NdWgpR4D0mRPvRxtV6C8xY1PvRdM3s9vL7Jsa0-k2KYs_0-7ovc8&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"Lenovo",
+        "modelo":"ThinkBook Plus 3ra Gen",
+        "precio":1965,
+        "img":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQRVasZcGCkbU7848fhIx0zKDrHAwaKebLO4fmR_SSeHhhHPRFd1cTUTRPLPolDvHs4ZaXQEoql5NZ5_GkvDUBm-EU2YyNv8WAXtBDQvvqNz-m6kmesZhQ2&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"Lenovo",
+        "modelo":"IdeaPad Flex 5 14 HD AMD Ryzen 3 8GB RAM 256 SSD",
+        "precio":1854,
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTI5W8Kd6MSGEndzuZLXri9Gr2_BCxHbLpGoY3nbsnqhbi1Rm-AP_2rXba2KCYkF6uLhjj5eN0-uiLIGEs7xEgbd8YUl_5avFETPM8vH7BCd0_6YN5ZvHg&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"Lenovo",
+        "modelo":"ThinkBook Plus 3ra Gen",
+        "precio":3500,
+        "img":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQRVasZcGCkbU7848fhIx0zKDrHAwaKebLO4fmR_SSeHhhHPRFd1cTUTRPLPolDvHs4ZaXQEoql5NZ5_GkvDUBm-EU2YyNv8WAXtBDQvvqNz-m6kmesZhQ2&usqp=CAc",
+        "webpage":""
+    },
+    {
+        "nombre":"Laptop",
+        "marca":"Lenovo",
+        "modelo":"IdeaPad Flex 5 14 HD AMD Ryzen 3 8GB RAM 256 SSD",
+        "precio":2100,
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTI5W8Kd6MSGEndzuZLXri9Gr2_BCxHbLpGoY3nbsnqhbi1Rm-AP_2rXba2KCYkF6uLhjj5eN0-uiLIGEs7xEgbd8YUl_5avFETPM8vH7BCd0_6YN5ZvHg&usqp=CAc",
+        "webpage":""
+    }
+    
+]

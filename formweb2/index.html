@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos.css" class="re">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <form action="" class="mostrar" id="formulario">
+        <input type="email" id="txtEmail" placeholder="Ingresa tu email">
+        <br><br>
+        <input type="password" id="txtPassword" placeholder="Ingresa tu password">
+        <br><br>
+        <input type="button" value="Registrar" id="btnRegistrar">
+        <br><br>
+        <input type="button" value="Ingresar" id="btnIngresar">
+        <br><br>
+        <img src="img/logo_google2.png" alt="" height="30px" id="btnGoogle">
+    </form>
+
+    
+    <div class="contenidoDeLaWeb ocultar" id="contenidoDeLaWeb">
+        <input type="button" value="Cerrar sesión" id="btnCerrarSesion">
+        <h3>Aquí verás el contenido de la web</h3>
+        <div class="resultado" id="resultado">  
+        </div>
+    </div>
+
+   
+
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"> </script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"> </script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-firestore.js">  </script> 
+    <script src="main.js">  </script>
+</body>
+
+</html>
