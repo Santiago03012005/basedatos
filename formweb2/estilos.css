@@ -20,4 +20,10 @@
     flex-direction: row;
     flex-wrap: wrap;
 }
+.listarDatos{
+    text-align: center;
+    background-color: pink;
+    margin: 10px;
+    border-color: blue;
+}
 

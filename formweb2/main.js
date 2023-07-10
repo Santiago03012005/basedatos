@@ -7,11 +7,13 @@ const firebaseConfig = {
   messagingSenderId: "244996046521",
   appId: "1:244996046521:web:fd0e5c8fabb95a2226e568"
   };
+  
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 // Initialize Firebase Authentication and get a reference to the service
 const auth = firebase.auth();
+const db = firebase.firestore();
 
 // llamando elementos de html o del DOM
 let btnRegistrar = document.getElementById('btnRegistrar');
@@ -20,6 +22,9 @@ let contenidoDeLaWeb = document.getElementById('contenidoDeLaWeb');
 let formulario = document.getElementById('formulario');
 let btnCerrarSesion = document.getElementById('btnCerrarSesion');
 let btnGoogle = document.getElementById('btnGoogle');
+let btnFacebook =document.getElementById('btnFacebook');
+let btnPublicar =document.getElementById('btnPublicar');
+
 
 
 //Función Registrar
@@ -137,3 +142,35 @@ function cargarJSON () {
   })
 }
 
+//Función agregar datos
+btnPublicar.addEventListener('click', ()=> {
+  db.collection("comentarios").add({
+    titulo: txtTitulo =document.getElementById('txtTitulo').value,
+    descripcion: txtDescripcion =document.getElementById('txtDescripcion').value,
+})
+.then((docRef) => {
+    console.log("Se guardo tu comentario correctamente");
+    imprimirComentariosEnPantalla();
+})
+.catch((error) => {
+    console.error("Error al enviar tu comentario", error);
+});
+})
+
+//Funcion leer datos o imprimir comentarios
+function imprimirComentariosEnPantalla(){
+  db.collection("comentarios").get().then((querySnapshot) => {
+    let html= '';
+    querySnapshot.forEach((doc) => {
+        console.log(`${doc.data().titulo}`);
+        console.log(`${doc.data().descripcion  }`);
+        var listarDatos = `
+        <li class="listarDatos">
+          <h5 class="listarDatosH5"> ${doc.data().titulo} </h5>
+          <p> ${doc.data().descripcion}</p>
+        </li>
+     `;
+     html += listarDatos;
+    }); document.getElementById('imprimirComentariosEnPantalla').innerHTML = html;
+});
+}
